@@ -1,4 +1,4 @@
 # lemin
-Graph theroy problem
+Network flow problem
 
 ### Description comes soon...
